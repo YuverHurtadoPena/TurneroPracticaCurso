@@ -1,0 +1,15 @@
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\bin\Debug\net6.0\TurneroPracticaCurso.DAL.deps.json
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\bin\Debug\net6.0\TurneroPracticaCurso.DAL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\bin\Debug\net6.0\TurneroPracticaCurso.DAL.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.csproj.AssemblyReference.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.AssemblyInfoInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.AssemblyInfo.cs
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.csproj.CoreCompileInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\refint\TurneroPracticaCurso.DAL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\ref\TurneroPracticaCurso.DAL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\bin\Debug\net6.0\TurneroPracticaCurso.Entity.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\bin\Debug\net6.0\TurneroPracticaCurso.Entity.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.DAL\obj\Debug\net6.0\TurneroPracticaCurso.DAL.csproj.CopyComplete

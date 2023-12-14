@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurneroPracticaCurso.Entity", "TurneroPracticaCurso.Entity\TurneroPracticaCurso.Entity.csproj", "{EB952DAB-CC39-48F3-BB03-0B1BEF5BB5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurneroPracticaCurso.DAL", "TurneroPracticaCurso.DAL\TurneroPracticaCurso.DAL.csproj", "{C78606F1-9A88-49E8-B137-9C0963F05BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurneroPracticaCurso.BLL", "TurneroPracticaCurso.BLL\TurneroPracticaCurso.BLL.csproj", "{99309D1B-8AAB-4437-8CE5-494417DB277C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurneroPracticaCurso.IOC", "TurneroPracticaCurso.IOC\TurneroPracticaCurso.IOC.csproj", "{82F39DDB-AA27-4BA9-9126-FF3DE9368546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurneroPracticaCurso.AplicationWeb", "TurneroPracticaCurso.AplicationWeb\TurneroPracticaCurso.AplicationWeb.csproj", "{57306A94-A16B-40BE-B6B1-135BE48CD9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB952DAB-CC39-48F3-BB03-0B1BEF5BB5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB952DAB-CC39-48F3-BB03-0B1BEF5BB5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB952DAB-CC39-48F3-BB03-0B1BEF5BB5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB952DAB-CC39-48F3-BB03-0B1BEF5BB5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78606F1-9A88-49E8-B137-9C0963F05BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78606F1-9A88-49E8-B137-9C0963F05BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78606F1-9A88-49E8-B137-9C0963F05BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78606F1-9A88-49E8-B137-9C0963F05BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99309D1B-8AAB-4437-8CE5-494417DB277C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99309D1B-8AAB-4437-8CE5-494417DB277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99309D1B-8AAB-4437-8CE5-494417DB277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99309D1B-8AAB-4437-8CE5-494417DB277C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F39DDB-AA27-4BA9-9126-FF3DE9368546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F39DDB-AA27-4BA9-9126-FF3DE9368546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F39DDB-AA27-4BA9-9126-FF3DE9368546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F39DDB-AA27-4BA9-9126-FF3DE9368546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57306A94-A16B-40BE-B6B1-135BE48CD9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57306A94-A16B-40BE-B6B1-135BE48CD9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57306A94-A16B-40BE-B6B1-135BE48CD9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57306A94-A16B-40BE-B6B1-135BE48CD9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79BDF1C-1840-48E5-86B7-6C65442EA42E}
+	EndGlobalSection
+EndGlobal

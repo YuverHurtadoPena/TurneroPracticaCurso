@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <DisableBrowserLink>true</DisableBrowserLink>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TurneroPracticaCurso.DAL\TurneroPracticaCurso.DAL.csproj" />
+    <ProjectReference Include="..\TurneroPracticaCurso.Entity\TurneroPracticaCurso.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

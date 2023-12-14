@@ -1,0 +1,14 @@
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\bin\Debug\net6.0\TurneroPracticaCurso.Entity.deps.json
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\bin\Debug\net6.0\TurneroPracticaCurso.Entity.runtimeconfig.json
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\bin\Debug\net6.0\TurneroPracticaCurso.Entity.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\bin\Debug\net6.0\TurneroPracticaCurso.Entity.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.csproj.AssemblyReference.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.AssemblyInfoInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.AssemblyInfo.cs
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.csproj.CoreCompileInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\refint\TurneroPracticaCurso.Entity.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\TurneroPracticaCurso.Entity.genruntimeconfig.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.Entity\obj\Debug\net6.0\ref\TurneroPracticaCurso.Entity.dll

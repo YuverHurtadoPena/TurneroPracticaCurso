@@ -1,0 +1,17 @@
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.BLL.deps.json
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.BLL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.BLL.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.csproj.AssemblyReference.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.AssemblyInfoInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.AssemblyInfo.cs
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.csproj.CoreCompileInputs.cache
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\refint\TurneroPracticaCurso.BLL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\ref\TurneroPracticaCurso.BLL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.DAL.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.Entity.dll
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.DAL.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\bin\Debug\net6.0\TurneroPracticaCurso.Entity.pdb
+C:\net\TurneroPracticaCurso\TurneroPracticaCurso.BLL\obj\Debug\net6.0\TurneroPracticaCurso.BLL.csproj.CopyComplete
